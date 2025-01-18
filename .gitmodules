@@ -1,0 +1,3 @@
+[submodule "railway-backend"]
+	path = railway-backend
+	url = https://github.com/Ryavnn/railway-backend.git
