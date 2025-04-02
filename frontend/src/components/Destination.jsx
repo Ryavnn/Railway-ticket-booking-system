@@ -34,13 +34,9 @@ function Destination() {
               <input type="date" name="out-date" id="" />
               <input type="time" name="out-time" id="" />
             </div>
-            <div className="passengers">
-              <p>Add passengers:</p>
-              <button className="passenger-btn">Add passengers</button>
-            </div>
 
           </div>
-        <input type="submit" value="Submit" className="dest-btn"/>
+        <input type="button" value="Submit" className="dest-btn"/>
         </div>
       </form>
     </div>

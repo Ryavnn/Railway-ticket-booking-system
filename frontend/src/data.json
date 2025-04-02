@@ -1,0 +1,144 @@
+{
+  "trains": [
+    {
+      "id": 1,
+      "name": "Express 101",
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "price": 1500,
+      "popular": true,
+      "image": "https://via.placeholder.com/300x200?text=Express+101",
+      "capacity": {
+        "economy": 200,
+        "business": 50,
+        "firstClass": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Coastal Liner",
+      "from": "Mombasa",
+      "to": "Nairobi",
+      "price": 1400,
+      "popular": false,
+      "image": "https://via.placeholder.com/300x200?text=Coastal+Liner",
+      "capacity": {
+        "economy": 180,
+        "business": 40,
+        "firstClass": 15
+      }
+    },
+    {
+      "id": 3,
+      "name": "Highland Express",
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "price": 1200,
+      "popular": false,
+      "image": "https://via.placeholder.com/300x200?text=Highland+Express",
+      "capacity": {
+        "economy": 220,
+        "business": 60,
+        "firstClass": 25
+      }
+    },
+    {
+      "id": 4,
+      "name": "Lakeside Cruiser",
+      "from": "Kisumu",
+      "to": "Nairobi",
+      "price": 1100,
+      "popular": false,
+      "image": "https://via.placeholder.com/300x200?text=Lakeside+Cruiser",
+      "capacity": {
+        "economy": 190,
+        "business": 45,
+        "firstClass": 18
+      }
+    },
+    {
+      "id": 5,
+      "name": "Mount Kenya Express",
+      "from": "Nairobi",
+      "to": "Nanyuki",
+      "price": 1000,
+      "popular": true,
+      "image": "https://via.placeholder.com/300x200?text=Mount+Kenya+Express",
+      "capacity": {
+        "economy": 150,
+        "business": 30,
+        "firstClass": 10
+      }
+    },
+    {
+      "id": 6,
+      "name": "Savannah Sprint",
+      "from": "Nairobi",
+      "to": "Embu",
+      "price": 900,
+      "popular": false,
+      "image": "https://via.placeholder.com/300x200?text=Savannah+Sprint",
+      "capacity": {
+        "economy": 170,
+        "business": 35,
+        "firstClass": 12
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rift Valley Rover",
+      "from": "Nairobi",
+      "to": "Eldoret",
+      "price": 1300,
+      "popular": true,
+      "image": "https://via.placeholder.com/300x200?text=Rift+Valley+Rover",
+      "capacity": {
+        "economy": 210,
+        "business": 55,
+        "firstClass": 22
+      }
+    },
+    {
+      "id": 8,
+      "name": "Western Star",
+      "from": "Nairobi",
+      "to": "Bungoma",
+      "price": 1250,
+      "popular": false,
+      "image": "https://via.placeholder.com/300x200?text=Western+Star",
+      "capacity": {
+        "economy": 180,
+        "business": 50,
+        "firstClass": 20
+      }
+    },
+    {
+      "id": 9,
+      "name": "Mara Voyager",
+      "from": "Nairobi",
+      "to": "Narok",
+      "price": 800,
+      "popular": false,
+      "image": "https://via.placeholder.com/300x200?text=Mara+Voyager",
+      "capacity": {
+        "economy": 140,
+        "business": 25,
+        "firstClass": 8
+      }
+    },
+    {
+      "id": 10,
+      "name": "Great Northern",
+      "from": "Nairobi",
+      "to": "Marsabit",
+      "price": 2000,
+      "popular": true,
+      "image": "https://via.placeholder.com/300x200?text=Great+Northern",
+      "capacity": {
+        "economy": 160,
+        "business": 40,
+        "firstClass": 15
+      }
+    }
+  ]
+}
